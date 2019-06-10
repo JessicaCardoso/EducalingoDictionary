@@ -1,6 +1,7 @@
 # Educalingo Dictionary — Package
 
-[![Build Status](https://travis-ci.org/JessicaSousa/EducalingoDictionary.svg?branch=master)](https://travis-ci.org/JessicaSousa/EducalingoDictionary)
+[![Travis CI](https://img.shields.io/travis/JessicaSousa/educalingodictionary.svg?label=Travis%20CI)](https://travis-ci.org/JessicaSousa/EducalingoDictionary)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/2mrx2y178n2jvsp4?svg=true)](https://ci.appveyor.com/project/JessicaSousa/educalingodictionary)
 [![codecov]( https://codecov.io/gh/JessicaSousa/EducalingoDictionary/branch/master/graph/badge.svg)](https://codecov.io/gh/JessicaSousa/EducalingoDictionary)
 [![GitHub license](https://img.shields.io/github/license/JessicaSousa/EducalingoDictionary.svg)](https://github.com/JessicaSousa/EducalingoDictionary/blob/master/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/educalingoDictionary.svg)](https://pypi.org/project/educalingoDictionary/)
