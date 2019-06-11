@@ -1,10 +1,11 @@
 # Educalingo Dictionary — Package
 
+[![PyPI](https://img.shields.io/pypi/v/educalingoDictionary.svg)](https://pypi.org/project/educalingoDictionary/)
 [![Travis CI](https://img.shields.io/travis/JessicaSousa/educalingodictionary.svg?label=Travis%20CI)](https://travis-ci.org/JessicaSousa/EducalingoDictionary)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/2mrx2y178n2jvsp4?svg=true)](https://ci.appveyor.com/project/JessicaSousa/educalingodictionary)
 [![codecov]( https://codecov.io/gh/JessicaSousa/EducalingoDictionary/branch/master/graph/badge.svg)](https://codecov.io/gh/JessicaSousa/EducalingoDictionary)
 [![GitHub license](https://img.shields.io/github/license/JessicaSousa/EducalingoDictionary.svg)](https://github.com/JessicaSousa/EducalingoDictionary/blob/master/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/educalingoDictionary.svg)](https://pypi.org/project/educalingoDictionary/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
 The ``educalingoDictionary`` Package is a basic package written in Python can download the info from the [Educalingo Dictionary](http://educalingo.com/).
 

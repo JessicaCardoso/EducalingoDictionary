@@ -2,13 +2,13 @@ import pytest
 from educalingoDictionary import EducalingoDictionary
 
 
-@pytest.fixture(scope='function')
+@pytest.fixture(scope="function")
 def educa_dict():
     dic = EducalingoDictionary()
     yield dic
 
 
-@pytest.fixture(scope='function')
+@pytest.fixture(scope="function")
 def instance_dict():
     dic = EducalingoDictionary()
     dic.set_language(lang="pt")
@@ -22,7 +22,7 @@ def test_language(educa_dict):
 
 
 def test_search(instance_dict):
-    assert instance_dict.soup != None
+    assert instance_dict.soup is not None
 
 
 def test_available_dictionaries(educa_dict):
